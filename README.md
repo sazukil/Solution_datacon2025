@@ -158,3 +158,15 @@ IFITM3
 - https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2023.1279740/full
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC9076685/
 - https://elementy.ru/novosti_nauki/431407/Poyavilas_novaya_mishen_dlya_borby_s_boleznyu_Altsgeymera?ysclid=md3jh7vwoe582751416
+
+## Этап 2. Предварительная обработка данных
+
+Все комментарии по этапу в файле [preparing_data.ipynb](https://github.com/sazukil/Solution_datacon2025/blob/main/preparing_data.ipynb)
+
+## Этап 3. Экстракция дескрипторов
+
+Все комментарии по этапу в файле [ds_with_descriptors.ipynb](https://github.com/sazukil/Solution_datacon2025/blob/main/ds_with_descriptors.ipynb)
+
+## Этап 4. Обучение предсказательной модели
+
+Все комментарии по этапу в файле [learning_model.ipynb](https://github.com/sazukil/Solution_datacon2025/blob/main/learning_model.ipynb)
