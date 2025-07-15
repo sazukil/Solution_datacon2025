@@ -170,3 +170,7 @@ IFITM3
 ## Этап 4. Обучение предсказательной модели
 
 Все комментарии по этапу в файле [learning_model.ipynb](https://github.com/sazukil/Solution_datacon2025/blob/main/learning_model.ipynb)
+
+## Этап 5. Генерация и отбор молекул-кандидатов
+
+Все комментарии по этапу в файле [generation_and_selection.ipynb](https://github.com/sazukil/Solution_datacon2025/blob/main/generation_and_selection.ipynb)
